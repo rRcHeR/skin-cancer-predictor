@@ -1,6 +1,7 @@
 # skin-cancer-predictor
 
 📌 Project Overview
+
 This project is a deep learning-based skin cancer detection system using Convolutional Neural Networks (CNNs). It classifies images of skin lesions as Cancer or Non-Cancer. The model is trained using image datasets and can be used via a Streamlit web app or a real-time camera feed for detection
 🩺 Importance & Usefulness of the Skin Cancer Detection Project
 🌟 Why is this project important?
